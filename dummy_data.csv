@@ -1,2 +1,2 @@
-test,test1,test2
-a,b,c
+input_file,data_file
+https://raw.githubusercontent.com/BWMac/cwl-hello/main/dummy.yaml,https://raw.githubusercontent.com/BWMac/cwl-hello/main/dummy_data.csv
