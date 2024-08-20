@@ -9,11 +9,7 @@ requirements:
 
 baseCommand: [echo, "Hello World"]
 
-inputs:
-  dummy_file:
-    type: File
-    inputBinding:
-      position: 1
+inputs: []
 
 outputs:
   hello_output:
